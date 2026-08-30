@@ -1,4 +1,4 @@
-plugins { id("com.android.application"); id("org.jetbrains.kotlin.android"); id("org.jetbrains.kotlin.plugin.compose") }
+plugins { id("com.android.application");  }
 android {
     namespace = "com.hermes.mobile"
     compileSdk = 36
